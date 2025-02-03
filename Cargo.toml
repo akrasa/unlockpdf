@@ -1,0 +1,9 @@
+[package]
+name = "unlockpdf"
+version = "0.2.0"
+edition = "2025"
+
+[profile.release]
+strip = false
+
+[dependencies]
